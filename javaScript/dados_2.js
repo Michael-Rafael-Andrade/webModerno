@@ -23,4 +23,3 @@ console.log("Produto: " + nome
 
 console.log(1+1); // resposta = 2;
 console.log("1" +1); // Observe que a resposta é 11 porque o javaScript fez uma concatenação do 1 string + 1 ficando a resposta como 11.
-
