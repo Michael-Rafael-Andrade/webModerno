@@ -3,6 +3,7 @@ var quantidade = 10; // criando uma variável chamada quantidade e atribuindo o 
 var preco = 6.4;
 var imposto = 1.5;
 var precoFinal = preco + imposto;
+// let = var ? 
 
 console.log(nome);
 console.log(quantidade);
