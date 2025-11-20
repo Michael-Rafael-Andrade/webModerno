@@ -20,3 +20,5 @@ const prod2 = {
 }
 
 console.log(prod2);
+
+// forma json é textual e serve para trocar informação entre sistemas
